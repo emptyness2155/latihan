@@ -14,7 +14,7 @@
 13,JPE,Giovanna Elisa Milana,39,36,1,2
 14,LIV,Liu Yan Han,37,34,0,3
 15,GPP,Polina Rahimova,35,31,2,2
-16,Hanna Davyskiba,34,28,3,3
+16,BJB,Hanna Davyskiba,34,28,3,3
 17,BJB,Jovana Brakocevic,28,26,2,0
 18,LIV,Karsta Lowe,28,23,4,1
 19,GPP,Bogdana Anisova,27,25,1,1
