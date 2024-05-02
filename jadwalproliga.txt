@@ -10,7 +10,7 @@
 10,28 April 2024,14:00,PA,JPX,0-3,BIN,8164395,https://raw.githubusercontent.com/telo99/gambarku/main/10.jpg
 11,28 April 2024,16:00,PI,JPE,3-0,GPP,8164562,https://raw.githubusercontent.com/telo99/gambarku/main/11.jpg
 12,28 April 2024,18:30,PA,LAV,3-0,PBS,8164725,https://raw.githubusercontent.com/telo99/gambarku/main/12.jpg
-13,02 Mei 2024,14:00,PI,BJB,,GPP
+13,02 Mei 2024,14:00,PI,BJB,3-1,GPP
 14,02 Mei 2024,16:00,PI,JPE,,JEP
 15,02 Mei 2024,18:30,PA,LAV,,BIN
 16,03 Mei 2024,14:00,PI,JPP,,BIN
