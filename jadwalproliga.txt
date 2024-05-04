@@ -17,7 +17,7 @@
 17,03 Mei 2024,16:00,PI,BJB,3-1,LIV,8171911,https://raw.githubusercontent.com/telo99/gambarku/main/17.jpg
 18,03 Mei 2024,18:30,PA,JPX,1-3,JBP,8172078,https://raw.githubusercontent.com/telo99/gambarku/main/18.jpg
 19,04 Mei 2024,14:00,PA,KSB,3-0,JGJ,8172994
-20,04 Mei 2024,16:00,PI,JPE,,JPP
+20,04 Mei 2024,16:00,PI,JPE,0-3,JPP
 21,04 Mei 2024,18:30,PA,BIN,,PBS
 22,05 Mei 2024,14:00,PA,LAV,,JBP
 23,05 Mei 2024,16:00,PI,JEP,,GPP
