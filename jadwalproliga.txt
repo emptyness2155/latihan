@@ -19,7 +19,7 @@
 19,04 Mei 2024,14:00,PA,KSB,3-0,JGJ,8172994,https://raw.githubusercontent.com/telo99/gambarku/main/19.jpg
 20,04 Mei 2024,16:00,PI,JPE,0-3,JPP,8173114,https://raw.githubusercontent.com/telo99/gambarku/main/20.jpg
 21,04 Mei 2024,18:30,PA,BIN,2-3,PBS,8173244,https://raw.githubusercontent.com/telo99/gambarku/main/21.jpg
-22,05 Mei 2024,14:00,PA,LAV,3-0,JBP,8174299
+22,05 Mei 2024,14:00,PA,LAV,3-0,JBP,8174299,https://raw.githubusercontent.com/telo99/gambarku/main/22.jpg
 23,05 Mei 2024,16:00,PI,JEP,3-2,GPP
 24,05 Mei 2024,18:30,PA,JPX,,KSB
 25,09 Mei 2024,14:00,PI,JEP,,BIN
