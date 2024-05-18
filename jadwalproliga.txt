@@ -30,7 +30,7 @@
 30,10 Mei 2024,18:30,PA,JPX,1-3,PBS,8181703,https://raw.githubusercontent.com/telo99/gambarku/main/30.jpg
 31,11 Mei 2024,14:00,PA,JBP,3-1,KSB,8182656,https://raw.githubusercontent.com/telo99/gambarku/main/31.jpg
 32,11 Mei 2024,16:00,PI,JPP,3-0,LIV,8182741,https://raw.githubusercontent.com/telo99/gambarku/main/32.jpg
-33,11 Mei 2024,18:30,PA,BIN,3-0,JGJ,8182866,https://raw.githubusercontent.com/telo99/gambarku/main/32.jpg
+33,11 Mei 2024,18:30,PA,BIN,3-0,JGJ,8182866,https://raw.githubusercontent.com/telo99/gambarku/main/33.jpg
 34,12 Mei 2024,14:00,PA,LAV,3-1,JPX,8183931
 35,12 Mei 2024,16:00,PI,JEP,3-2,BJB,8184116
 36,12 Mei 2024,18:30,PA,PBS,3-0,KSB,8184232
