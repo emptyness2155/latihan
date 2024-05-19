@@ -45,7 +45,7 @@
 45,18 Mei 2024,18:30,PA,PBS,3-2,LAV,8193507,https://raw.githubusercontent.com/telo99/gambarku/main/45.jpg
 46,19 Mei 2024,14:00,PA,JGJ,0-3,BIN,8194445,https://raw.githubusercontent.com/telo99/gambarku/main/46.jpg
 47,19 Mei 2024,16:00,PI,JPP,3-0,GPP,8194565
-48,19 Mei 2024,18:30,PA,JBP,,JPX
+48,19 Mei 2024,18:30,PA,JBP,3-0,JPX
 49,06 Juni 2024,14:00,PI,GPP,,BIN
 50,06 Juni 2024,16:00,PI,JPP,,JPE
 51,06 Juni 2024,18:30,PA,JPX,,LAV
