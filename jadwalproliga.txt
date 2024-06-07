@@ -50,7 +50,7 @@
 50,06 Juni 2024,16:00,PI,JPP,3-0,JPE,8221002,https://raw.githubusercontent.com/telo99/gambarku/main/50.jpg
 51,06 Juni 2024,18:30,PA,JPX,0-3,LAV,8221133,https://raw.githubusercontent.com/telo99/gambarku/main/51.jpg
 52,07 Juni 2024,14:00,PI,LIV,0-3,JEP,8222239,https://raw.githubusercontent.com/telo99/gambarku/main/52.jpg
-53,07 Juni 2024,16:00,PI,JPP,2-3,BJB
+53,07 Juni 2024,16:00,PI,JPP,2-3,BJB,8222464
 54,07 Juni 2024,18:30,PA,PBS,,KSB
 55,08 Juni 2024,14:00,PA,JBP,,BIN
 56,08 Juni 2024,16:00,PI,JPE,,BIN
