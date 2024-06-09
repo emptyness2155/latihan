@@ -56,8 +56,8 @@
 56,08 Juni 2024,16:00,PI,JPE,0-3,BIN,8223819,https://raw.githubusercontent.com/telo99/gambarku/main/56.jpg
 57,08 Juni 2024,18:30,PA,JPX,3-0,JGJ,8223913,https://raw.githubusercontent.com/telo99/gambarku/main/57.jpg
 58,09 Juni 2024,14:00,PA,KSB,0-3,LAV,8224876,https://raw.githubusercontent.com/telo99/gambarku/main/58.jpg
-59,09 Juni 2024,16:00,PI,GPP,2-3,BJB,8225118
-60,09 Juni 2024,18:30,PA,PBS,3-1,BIN
+59,09 Juni 2024,16:00,PI,GPP,2-3,BJB,8225118,https://raw.githubusercontent.com/telo99/gambarku/main/59.jpg
+60,09 Juni 2024,18:30,PA,PBS,3-1,BIN,8225294
 61,13 Juni 2024,14:00,PI,BIN,,BJB
 62,13 Juni 2024,16:00,PI,GPP,,JPE
 63,13 Juni 2024,18:30,PA,JBP,,LAV
